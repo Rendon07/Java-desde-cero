@@ -1,0 +1,19 @@
+VIDEO-2
+
+package variable;
+
+public class variable {
+    
+    public static void main(String[] args) {
+        
+        int numero = 5;
+        String nombre = "Angie";
+        char letra = 'A'
+        double temperatura = 39.6;
+        boolean siONo = false;
+        long largo = 12345678910;
+       
+    }
+}
+
+VIDEO-3
